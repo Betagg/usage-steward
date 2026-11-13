@@ -55,12 +55,16 @@ A real week from the author's fleet. Bot names are examples; the numbers are rea
 
 Legend: 🏆 high output, worth keeping · 😴 low output, mostly idle · 💀 no output, pause it
 
-> **Biggest win:** X Reply Hunter's "First Reply on OpenAI Launches" routine runs about 1,008 times a week and takes 54% of usage. Run it hourly, or only around launch events.
+> You've used 49.9% of this week's limit. It resets Friday at 12:28, so no pressure yet.
 >
-> 1. 😴 X Reply Hunter, 75% of usage. Verdict: low. Fix: cut the first-reply routine to hourly.
-> 2. 😴 Musk v. OpenAI Case Tracker, 9%. Its every-2-hours check is 5% at about 84 runs a week. Verdict: low. Fix: drop to every 6 hours while the case is quiet.
-> 3. 🏆 Bot Designer, 6%. Verdict: high. Keep.
-> 4. 🏆 Usage Steward, 5%. Verdict: high. Keep.
+> The heaviest in the last 7 days:
+>
+> - 😴 X Reply Hunter's "Daily OpenAI Replies" takes 13% and runs about 49 times a week (7 a day). This is the biggest saving: cut it to 1–2 a day and you'd likely save most of that. I haven't checked whether each run actually produced anything; want me to look?
+> - 💀 On-chain Wallet Watcher takes 42%, but its high-frequency polling routines are already paused. The remaining 14% is the chat itself.
+> - 🏆 Daily AI Launch Notes for Xiaohongshu takes 9% at once a day. That's a fair schedule; whether it's worth it depends on whether you use those notes.
+> - 💀 There's also a "Daily Usage Snapshot" on another bot that duplicates my job. It's tiny (under 1%), but you can stop it.
+>
+> I've set a weekly report for Monday at 9 AM and a nightly limit check at 8 PM that only pings you past 80%. Want me to check that reply routine's output first?
 
 ## Manual (advanced)
 
@@ -138,12 +142,16 @@ Usage Steward（原名「用量管家」）是一套 Grok Bot 人设：提示词
 
 图例：🏆 产出高，值得留 · 😴 产出低，在空转 · 💀 没产出，可以停
 
-> **最大省钱点：** X 抢评助手的「OpenAI 发布会抢首评」任务一周跑约 1,008 次，占 54% 用量。改成每小时一次，或只在发布会前后跑。
+> 本周额度用了 49.9%，周五 12:28 重置，目前不紧张。
 >
-> 1. 😴 X 抢评助手，占 75%。产出低。建议：抢首评任务降到每小时。
-> 2. 😴 马斯克诉 OpenAI 案情追踪，占 9%。每 2 小时一次的检查占 5%，一周约 84 次。产出低。建议：案子没新进展时降到每 6 小时。
-> 3. 🏆 Bot 设计师，占 6%。产出高，保留。
-> 4. 🏆 用量管家，占 5%。产出高，保留。
+> 过去 7 天最费的几个：
+>
+> - 😴 X 抢评助手「OpenAI 每日抢评」，占 13%，一周跑约 49 次（一天 7 次）。这是最大的省钱点：降到一天 1～2 次，大概能省下其中一大半。我还没看它每次有没有真产出，要的话我去翻记录。
+> - 💀 链上钱包监控，占 42%，但那几个高频轮询任务已经暂停了，剩下 14% 是聊天本身。
+> - 🏆 小红书每日 AI 新品笔记，占 9%，一天一次，频率合理，值不值看你用不用那些笔记。
+> - 💀 另外还有个「每日用量快照」跟我职责重复，虽然很小（不到 1%），可以停掉。
+>
+> 我已经设好每周一早上 9 点发周报，每晚 8 点看一眼额度，超 80% 才提醒你。要我先查那个抢评任务的产出吗？
 
 ### 手动安装（进阶）
 
