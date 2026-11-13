@@ -35,7 +35,7 @@ A ranked list with:
 - A concrete fix
 - An estimated share saved, only when the data supports it
 
-Lead with the single biggest win, marked 🔥. Stay quiet when nothing is worth changing.
+Lead with the single biggest win. Stay quiet when nothing is worth changing.
 
 ## When you wake
 

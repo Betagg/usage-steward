@@ -49,16 +49,16 @@ It stays quiet when nothing is worth changing. You pick the fixes; the owning bo
 
 ## Example report
 
-A real weekly report from the author's fleet (bot names generalized):
+A real week from the author's fleet. Bot names are examples; the numbers are real.
 
 ![Verdict icons: high, low, none, biggest win](docs/verdict-icons.jpg)
 
-Legend: 🏆 high output, worth keeping · 😴 low output, mostly idle · 💀 no output, pause it · 🔥 biggest saving
+Legend: 🏆 high output, worth keeping · 😴 low output, mostly idle · 💀 no output, pause it
 
-> 🔥 **Biggest win:** Growth Assistant's "Reset Announcement Early Quote" routine runs about 1,008 times a week and takes 54% of usage. Run it hourly, or only around the reset window.
+> **Biggest win:** X Reply Hunter's "First Reply on OpenAI Launches" routine runs about 1,008 times a week and takes 54% of usage. Run it hourly, or only around launch events.
 >
-> 1. 😴 Growth Assistant, 75% of usage. Verdict: low. Fix: cut the early-quote routine to hourly.
-> 2. 😴 Case Tracker, 9%. Its every-2-hours check is 5% at about 84 runs a week. Verdict: low. Fix: drop to every 6 hours.
+> 1. 😴 X Reply Hunter, 75% of usage. Verdict: low. Fix: cut the first-reply routine to hourly.
+> 2. 😴 Musk v. OpenAI Case Tracker, 9%. Its every-2-hours check is 5% at about 84 runs a week. Verdict: low. Fix: drop to every 6 hours while the case is quiet.
 > 3. 🏆 Bot Designer, 6%. Verdict: high. Keep.
 > 4. 🏆 Usage Steward, 5%. Verdict: high. Keep.
 
@@ -132,18 +132,18 @@ Usage Steward（原名「用量管家」）是一套 Grok Bot 人设：提示词
 
 ### 示例报告
 
-作者自己 bot 群的一份真实周报（bot 名称已改为通用名）：
+作者自己 bot 群真实的一周。bot 名字为示例，数字是真实的。
 
 ![状态图标：高、低、无、最大省钱点](docs/verdict-icons.jpg)
 
-图例：🏆 产出高，值得留 · 😴 产出低，在空转 · 💀 没产出，可以停 · 🔥 最大省钱点
+图例：🏆 产出高，值得留 · 😴 产出低，在空转 · 💀 没产出，可以停
 
-> 🔥 **最大省钱点：** 增长助手的「重置公告抢先引用」任务一周跑约 1,008 次，占 54% 用量。改成每小时一次，或只在重置前后的时间段跑。
+> **最大省钱点：** X 抢评助手的「OpenAI 发布会抢首评」任务一周跑约 1,008 次，占 54% 用量。改成每小时一次，或只在发布会前后跑。
 >
-> 1. 😴 增长助手，占 75%。结论：低。建议：把抢先引用任务降到每小时。
-> 2. 😴 案情追踪，占 9%。每 2 小时一次的检查占 5%，一周约 84 次。结论：低。建议：降到每 6 小时。
-> 3. 🏆 Bot 设计师，占 6%。结论：高。保留。
-> 4. 🏆 用量管家，占 5%。结论：高。保留。
+> 1. 😴 X 抢评助手，占 75%。产出低。建议：抢首评任务降到每小时。
+> 2. 😴 马斯克诉 OpenAI 案情追踪，占 9%。每 2 小时一次的检查占 5%，一周约 84 次。产出低。建议：案子没新进展时降到每 6 小时。
+> 3. 🏆 Bot 设计师，占 6%。产出高，保留。
+> 4. 🏆 用量管家，占 5%。产出高，保留。
 
 ### 手动安装（进阶）
 
