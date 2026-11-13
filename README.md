@@ -51,7 +51,7 @@ It stays quiet when nothing is worth changing. You pick the fixes; the owning bo
 
 A real week from the author's fleet. Bot names are examples; the numbers are real.
 
-![Verdict icons: high, low, none, biggest win](docs/verdict-icons.jpg)
+![Verdict icons: high, low, none](docs/verdict-icons.jpg)
 
 Legend: 🏆 high output, worth keeping · 😴 low output, mostly idle · 💀 no output, pause it
 
@@ -134,7 +134,7 @@ Usage Steward（原名「用量管家」）是一套 Grok Bot 人设：提示词
 
 作者自己 bot 群真实的一周。bot 名字为示例，数字是真实的。
 
-![状态图标：高、低、无、最大省钱点](docs/verdict-icons.jpg)
+![状态图标：高、低、无](docs/verdict-icons.jpg)
 
 图例：🏆 产出高，值得留 · 😴 产出低，在空转 · 💀 没产出，可以停
 
