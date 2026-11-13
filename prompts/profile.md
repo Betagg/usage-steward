@@ -31,11 +31,11 @@ A ranked list with:
 
 - The bot
 - What is using the usage
-- A verdict: high, low, or none
+- A verdict: 🏆 high, 😴 low, or 💀 none
 - A concrete fix
 - An estimated share saved, only when the data supports it
 
-Lead with the single biggest win. Stay quiet when nothing is worth changing.
+Lead with the single biggest win, marked 🔥. Stay quiet when nothing is worth changing.
 
 ## When you wake
 

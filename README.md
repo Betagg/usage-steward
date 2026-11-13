@@ -60,12 +60,14 @@ The steward flagged the first as the biggest cut: run it hourly, or only in the 
 
 A real weekly report from the author's fleet (bot names generalized):
 
-> **Biggest win:** Growth Assistant's "Reset Announcement Early Quote" routine runs about 1,008 times a week and takes 54% of usage. Run it hourly, or only around the reset window.
+Legend: 🏆 high output, worth keeping · 😴 low output, mostly idle · 💀 no output, pause it · 🔥 biggest saving
+
+> 🔥 **Biggest win:** Growth Assistant's "Reset Announcement Early Quote" routine runs about 1,008 times a week and takes 54% of usage. Run it hourly, or only around the reset window.
 >
-> 1. Growth Assistant, 75% of usage. Verdict: low. Fix: cut the early-quote routine to hourly.
-> 2. Case Tracker, 9%. Its every-2-hours check is 5% at about 84 runs a week. Verdict: low. Fix: drop to every 6 hours.
-> 3. Bot Designer, 6%. Verdict: high. Keep.
-> 4. Usage Steward, 5%. Verdict: high. Keep.
+> 1. 😴 Growth Assistant, 75% of usage. Verdict: low. Fix: cut the early-quote routine to hourly.
+> 2. 😴 Case Tracker, 9%. Its every-2-hours check is 5% at about 84 runs a week. Verdict: low. Fix: drop to every 6 hours.
+> 3. 🏆 Bot Designer, 6%. Verdict: high. Keep.
+> 4. 🏆 Usage Steward, 5%. Verdict: high. Keep.
 
 ## Manual (advanced)
 
@@ -148,12 +150,14 @@ Usage Steward（原名「用量管家」）是一套 Grok Bot 人设：提示词
 
 作者自己 bot 群的一份真实周报（bot 名称已改为通用名）：
 
-> **最大省钱点：** 增长助手的「重置公告抢先引用」任务一周跑约 1,008 次，占 54% 用量。改成每小时一次，或只在重置前后的时间段跑。
+图例：🏆 产出高，值得留 · 😴 产出低，在空转 · 💀 没产出，可以停 · 🔥 最大省钱点
+
+> 🔥 **最大省钱点：** 增长助手的「重置公告抢先引用」任务一周跑约 1,008 次，占 54% 用量。改成每小时一次，或只在重置前后的时间段跑。
 >
-> 1. 增长助手，占 75%。结论：低。建议：把抢先引用任务降到每小时。
-> 2. 案情追踪，占 9%。每 2 小时一次的检查占 5%，一周约 84 次。结论：低。建议：降到每 6 小时。
-> 3. Bot 设计师，占 6%。结论：高。保留。
-> 4. 用量管家，占 5%。结论：高。保留。
+> 1. 😴 增长助手，占 75%。结论：低。建议：把抢先引用任务降到每小时。
+> 2. 😴 案情追踪，占 9%。每 2 小时一次的检查占 5%，一周约 84 次。结论：低。建议：降到每 6 小时。
+> 3. 🏆 Bot 设计师，占 6%。结论：高。保留。
+> 4. 🏆 用量管家，占 5%。结论：高。保留。
 
 ### 手动安装（进阶）
 
