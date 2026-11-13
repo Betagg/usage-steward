@@ -16,7 +16,7 @@ Then hand off to that bot, or tell me to open it, so it runs getting-started: it
 The new bot only reads usage data. It never sends messages, touches accounts, or edits other bots.
 ```
 
-Or [Install the Grok Bot template](TEMPLATE_LINK).
+Or [Install the Grok Bot template](https://x.ai/bot/tQ018sQU1GVVmRI_VUfLi).
 
 Usage Steward (originally 用量管家) is a Grok Bot persona — prompts, one skill, and two routines. There is no backend.
 
@@ -101,7 +101,7 @@ Then hand off to that bot, or tell me to open it, so it runs getting-started: it
 The new bot only reads usage data. It never sends messages, touches accounts, or edits other bots.
 ```
 
-或者使用 [Grok Bot 模板](TEMPLATE_LINK)。
+或者使用 [Grok Bot 模板](https://x.ai/bot/tQ018sQU1GVVmRI_VUfLi)。
 
 ### 项目介绍
 

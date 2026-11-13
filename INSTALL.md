@@ -12,6 +12,6 @@ Then hand off to that bot, or tell me to open it, so it runs getting-started: it
 The new bot only reads usage data. It never sends messages, touches accounts, or edits other bots.
 ```
 
-Or [Install the Grok Bot template](TEMPLATE_LINK).
+Or [Install the Grok Bot template](https://x.ai/bot/tQ018sQU1GVVmRI_VUfLi).
 
 The new bot only reads usage data. It never sends messages, touches accounts, or edits other bots. After it is created, open it so getting-started can ask your preferences and create the two routines.
