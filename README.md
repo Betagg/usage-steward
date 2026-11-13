@@ -60,7 +60,7 @@ Legend: 🏆 high output, worth keeping · 😴 low output, mostly idle · 💀 
 > The heaviest in the last 7 days:
 >
 > - 😴 X Reply Hunter's "Daily OpenAI Replies" takes 13% and runs about 49 times a week (7 a day). This is the biggest saving: cut it to 1–2 a day and you'd likely save most of that. I haven't checked whether each run actually produced anything; want me to look?
-> - 💀 On-chain Wallet Watcher takes 42%, but its high-frequency polling routines are already paused. The remaining 14% is the chat itself.
+> - 💀 US Stocks Watcher takes 42%, but its high-frequency polling routines are already paused. The remaining 14% is the chat itself.
 > - 🏆 Daily AI Launch Notes for Xiaohongshu takes 9% at once a day. That's a fair schedule; whether it's worth it depends on whether you use those notes.
 > - 💀 There's also a "Daily Usage Snapshot" on another bot that duplicates my job. It's tiny (under 1%), but you can stop it.
 >
@@ -147,7 +147,7 @@ Usage Steward（原名「用量管家」）是一套 Grok Bot 人设：提示词
 > 过去 7 天最费的几个：
 >
 > - 😴 X 抢评助手「OpenAI 每日抢评」，占 13%，一周跑约 49 次（一天 7 次）。这是最大的省钱点：降到一天 1～2 次，大概能省下其中一大半。我还没看它每次有没有真产出，要的话我去翻记录。
-> - 💀 链上钱包监控，占 42%，但那几个高频轮询任务已经暂停了，剩下 14% 是聊天本身。
+> - 💀 美股监控，占 42%，但那几个高频轮询任务已经暂停了，剩下 14% 是聊天本身。
 > - 🏆 小红书每日 AI 新品笔记，占 9%，一天一次，频率合理，值不值看你用不用那些笔记。
 > - 💀 另外还有个「每日用量快照」跟我职责重复，虽然很小（不到 1%），可以停掉。
 >
