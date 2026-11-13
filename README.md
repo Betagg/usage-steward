@@ -47,18 +47,11 @@ It tracks how much Grok Bot usage each of your bots and routines burns, judges w
 
 It stays quiet when nothing is worth changing. You pick the fixes; the owning bot applies them.
 
-## Example output
-
-From a real week:
-
-- One routine was set to run about 1,008 times a week and took 54% of Grok Bot usage.
-- An auto-reply routine ran 49 times a week and took 18% of usage.
-
-The steward flagged the first as the biggest cut: run it hourly, or only in the window around the event it was watching.
-
 ## Example report
 
 A real weekly report from the author's fleet (bot names generalized):
+
+![Verdict icons: high, low, none, biggest win](docs/verdict-icons.jpg)
 
 Legend: 🏆 high output, worth keeping · 😴 low output, mostly idle · 💀 no output, pause it · 🔥 biggest saving
 
@@ -137,18 +130,11 @@ Usage Steward（原名「用量管家」）是一套 Grok Bot 人设：提示词
 
 没什么值得改的时候，它会保持安静。改哪条由你决定，再由对应的 bot 去执行。
 
-### 示例输出
-
-来自真实的一周：
-
-- 有个定时任务被设成一周大约跑 1,008 次，占掉了 54% 的 Grok Bot 用量。
-- 有个自动回复任务一周跑了 49 次，占掉了 18% 的用量。
-
-管家把前者标成最大的削减点：改成每小时跑一次，或只在它要盯的事件窗口内运行。
-
-## 示例报告
+### 示例报告
 
 作者自己 bot 群的一份真实周报（bot 名称已改为通用名）：
+
+![状态图标：高、低、无、最大省钱点](docs/verdict-icons.jpg)
 
 图例：🏆 产出高，值得留 · 😴 产出低，在空转 · 💀 没产出，可以停 · 🔥 最大省钱点
 
